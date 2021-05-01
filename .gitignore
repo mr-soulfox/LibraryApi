@@ -1,0 +1,10 @@
+#Dir
+Lib
+Scripts
+Include
+__pycache__
+modules/__pycache__
+
+#files
+*.txt
+pyvenv.cfg
