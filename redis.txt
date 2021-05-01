@@ -1,0 +1,8 @@
+O redis é um banco não relacional que é melhor para performace
+
+o redis trabalha com chave:valor
+
+o redis aceita valores de texto, hash, listas e sets
+
+chave do app na rapidapi
+1c2ae8912emsh45446a67a1c2b9cp1bb929jsn79404fc8a144
