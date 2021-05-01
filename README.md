@@ -32,6 +32,7 @@
 
 
 <div id="pre"/>
+
 ### Pré-requisitos
 Necessario ter o Python instalado e com a VENV atualizada
 
