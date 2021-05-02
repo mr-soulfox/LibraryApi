@@ -24,12 +24,7 @@
 </p>
 
 <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=orange&"/>
-
-<h4 align="center"> 
-	🚧  Em construção...(98%)  🚧
-</h4>
 <br/>
-
 
 <div id="pre"/>
 
